@@ -1,5 +1,8 @@
 # S&P 500 Macro Fair Value Model
 
+Live dashboard:
+https://1bsar.github.io/SP500-Macro-Fair-Value-Model/
+
 Macro valuation model estimating S&P 500 fair value using earnings, liquidity, interest rates, and inflation.
 
 The model uses historical monthly data from 2005–2026 and applies a log-linear regression framework to estimate a fair value level for the S&P 500. It compares the model-implied fair value against the actual index level to calculate an overvaluation or undervaluation gap.
